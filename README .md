@@ -1,0 +1,1 @@
+Ya que este es un examen se omito generar un git ignore para que se pudiera ver el proyecto sin ninguna alteracion 
